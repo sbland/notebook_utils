@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="notebook_utils",
-    version="0.1.0",
+    version="0.1.1",
     author="Sam Bland",
     author_email="sbland.co.uk@gmail.com",
     description="Python jupyter notebook helper utilities",
